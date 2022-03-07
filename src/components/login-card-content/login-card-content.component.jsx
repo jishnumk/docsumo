@@ -70,8 +70,13 @@ const LoginCardContent = () => {
       >
         {(formik) => (
           <FormContainer>
-            <InputField name="email" label="Work Email" type="email" />
-            <InputField name="password" label="Password" type="password" />
+            <InputField name="email" label="Work Email" type="text" required />
+            <InputField
+              name="password"
+              label="Password"
+              type="password"
+              required
+            />
             {serverError.status ? (
               <ErrorInfo>
                 {serverError.error + ". " + serverError.message}
