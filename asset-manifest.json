@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/docsumo/static/css/main.999fd160.css",
+    "main.js": "/docsumo/static/js/main.32f58468.js",
+    "static/js/787.a0d29035.chunk.js": "/docsumo/static/js/787.a0d29035.chunk.js",
+    "index.html": "/docsumo/index.html",
+    "main.999fd160.css.map": "/docsumo/static/css/main.999fd160.css.map",
+    "main.32f58468.js.map": "/docsumo/static/js/main.32f58468.js.map",
+    "787.a0d29035.chunk.js.map": "/docsumo/static/js/787.a0d29035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999fd160.css",
+    "static/js/main.32f58468.js"
+  ]
+}
